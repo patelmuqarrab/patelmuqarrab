@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/34/20/ec/3420ecc43033c2bac1233bb8c45e217c.jpg)]
+![MasterHead](https://i.pinimg.com/564x/e6/86/01/e68601cafe0605b4a27563cbd8c6b3dd.jpg)
 <h1 align="center">Hi 👋, I'm Patel Muqarrab</h1>
 <h3 align="center">👨‍💻 Aspiring Web Developer | BSc Computer Science Student 🎓</h3>
 
