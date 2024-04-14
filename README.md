@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Patel Muqarrab</h1>
 <h3 align="center">👨‍💻 Aspiring Web Developer | BSc Computer Science Student 🎓</h3>
 
+<p>A dedicated Computer Science student at Savitribai Phule Pune University with a fervent interest in web development. Passionate about coding and an avid reader. Eager to contribute to innovative projects and collaborate with like-minded professionals.</p>
+
 - 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML ,CSS ,TAILWIND CSS ,JS ,REACT ,PYTHON**
-
-- 📫 How to reach me **patelmuqarrab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
