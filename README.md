@@ -3,7 +3,7 @@
 
 <img alt="coding" width="400" align="right" src="https://i.pinimg.com/736x/5a/b8/14/5ab8140f73f89d9e38d887f936e4b1e6.jpg"></img>
 
-<p>I'm a dedicated Computer Science student at Savitribai Phule Pune University with a fervent interest in web development. Passionate about coding and an avid reader. Eager to contribute to innovative projects and collaborate with like-minded professionals.</p>
+<p>I'm a dedicated Computer Science student with a fervent interest in web development. Passionate about coding and an avid reader. Eager to contribute to innovative projects and collaborate with like-minded professionals.</p>
 
 - 🌱 I’m currently learning **React**
 
