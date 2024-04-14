@@ -1,8 +1,10 @@
-![MasterHead](https://i.pinimg.com/564x/e6/86/01/e68601cafe0605b4a27563cbd8c6b3dd.jpg)
+
+<img alt="coding" width="400" align="center" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></img>
+
 <h1 align="center">Hi 👋, I'm Patel Muqarrab</h1>
 <h3 align="center">👨‍💻 Aspiring Web Developer | BSc Computer Science Student 🎓</h3>
 
-<p>A dedicated Computer Science student at Savitribai Phule Pune University with a fervent interest in web development. Passionate about coding and an avid reader. Eager to contribute to innovative projects and collaborate with like-minded professionals.</p>
+<p>I'm a dedicated Computer Science student at Savitribai Phule Pune University with a fervent interest in web development. Passionate about coding and an avid reader. Eager to contribute to innovative projects and collaborate with like-minded professionals.</p>
 
 - 🌱 I’m currently learning **React**
 
