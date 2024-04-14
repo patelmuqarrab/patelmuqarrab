@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Aspiring Web Developer | BSc Computer Science Student 🎓</h3>
 <p>I'm a dedicated Computer Science student at Savitribai Phule Pune University with a fervent interest in web development. Passionate about coding and an avid reader. Eager to contribute to innovative projects and collaborate with like-minded professionals.</p>
 
-<img alt="coding" height="400px" width="100%" align="center" src="https://i.pinimg.com/564x/34/20/ec/3420ecc43033c2bac1233bb8c45e217c.jpg"></img>
+<img alt="coding" height="400%" width="100%" align="center" src="https://i.pinimg.com/564x/34/20/ec/3420ecc43033c2bac1233bb8c45e217c.jpg"></img>
 
 - 🌱 I’m currently learning **React**
 
