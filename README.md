@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)(https://www.linkedin.com/in/patelmuqarrab/)]
+[![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)](https://www.linkedin.com/in/patelmuqarrab/)
 <h1 align="center">Hi 👋, I'm Patel Muqarrab</h1>
 <h3 align="center">👨‍💻 Aspiring Web Developer | BSc Computer Science Student 🎓</h3>
 
