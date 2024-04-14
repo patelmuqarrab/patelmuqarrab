@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-<img alt="coding" width="400" align="center" src="https://i.pinimg.com/564x/34/20/ec/3420ecc43033c2bac1233bb8c45e217c.jpg"></img>
+<img alt="coding" width="400" align="right" src="https://i.pinimg.com/564x/34/20/ec/3420ecc43033c2bac1233bb8c45e217c.jpg"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
