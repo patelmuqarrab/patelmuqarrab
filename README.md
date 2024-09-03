@@ -32,3 +32,4 @@
 
 - **LinkedIn**: https://www.linkedin.com/in/patelmuqarrab/
 - **Twitter/X**: https://twitter.com/patelmuqarrab/
+- **Kaggle**: https://www.kaggle.com/patelmuqarrab
