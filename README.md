@@ -7,8 +7,8 @@
 
 - My name is Patel Muqarrab.
 - I am doing my undergrad in Computer Science (Last Year).
-- I have worked on projects related to web dev and developed some problem solving skills.
-- During this time, I also developed a strong interest in coding and working with data, which led me to transition to data science.
+- I have worked on projects related to data and developed some problem solving skills.
+- During this time, I also developed a strong interest in coding and working with data, which led me to transition to data analytics.
 
 ##  🌳 Things I'm comfortable with
 - Python
